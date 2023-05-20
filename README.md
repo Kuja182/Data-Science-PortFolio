@@ -1,5 +1,5 @@
 # EDA_proy
-Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas.
+## Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas.
 ### TEMA
 ### Evaluación de todas las enfermedades oculares y la predominancia de cada una de ellas en un gran espectro.
 ### HIPÓTESIS

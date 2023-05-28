@@ -1,14 +1,14 @@
 # Data Science Portfolio
 Este es un repositorio con los diferentes que estoy trabajando, están realizados en su mayoria con Python,Pandas, Matplotlib y Seaborn.
 
->## Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas.
+>## Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas. [Github] (https://github.com/Kuja182/Data-Science-PortFolio/blob/main/Relevancia_defectos_%C3%B3pticos/src/memoria.ipynb)
 ### Evaluación de todas las enfermedades oculares y la predominancia de cada una de ellas en un gran espectro.
 > ### 1. Analizaremos una muestra de problemas visuales en EEUU de 2017.
 - Obtendremos predominancias de las anomialias visuales en un gran espectro donde mostraremos la relevancia de cada problema, en EEUU y en cada estado.
 > ### 2. Analizaremos una muestra de problemas visuales en 618 niños y niñas.
 - Sabremos si tienen relación ciertos factores del ojo en la evolución de la miopía, además de certificar si tener padres y madres miopes influyen en la miopía del niño o niña.
 > ### 3. Analizaremos los precios de montura + cristales y lentes de contacto de 4 ópticas diferentes.
-- Compararemos diferentes ópticas para ver cual es lla solucion más economica para problemas visuales.
+- Compararemos diferentes ópticas para ver cual es la solución más economica para problemas visuales.
 
 ### Hipotesis a demostrar:
 #### 1. Predominancia de la miopía como afección visual mayoritaria.

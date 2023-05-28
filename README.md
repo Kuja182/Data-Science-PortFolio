@@ -1,10 +1,20 @@
-# EDA_proy
-## Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas.
-### TEMA
+# Data Science Portfolio
+Este es un repositorio con los diferentes proyectos hechos:
+
+>## Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas.
 ### Evaluación de todas las enfermedades oculares y la predominancia de cada una de ellas en un gran espectro.
-### HIPÓTESIS
+> ### 1. Analizaremos una muestra de problemas visuales en EEUU de 2017.
+- Obtendremos predominancias de las anomialias visuales en un gran espectro donde mostraremos la relevancia de cada problema, en EEUU y en cada estado.
+> ### 2. Analizaremos una muestra de problemas visuales en 618 niños y niñas.
+- Sabremos si tienen relación ciertos factores del ojo en la evolución de la miopía, además de certificar si tener padres y madres miopes influyen en la miopía del niño o niña.
+> ### 3. Analizaremos los precios de montura + cristales y lentes de contacto de 4 ópticas diferentes.
+- Compararemos a 
+
+### Hipotesis a demostrar:
 #### 1. Predominancia de la miopía como afección visual mayoritaria.
 #### 2. El componente genetico en la miopía es de gran relevancia, además de otros valores como la longitud axial del ojo (distancia desde la superficie de la cornea hasta la retina)
+#### 3. El componente genetico en la miopía es de gran relevancia, además de otros valores como la longitud axial del ojo (distancia desde la superficie de la cornea hasta la retina
+
 ## OBTENCIÓN DE LOS DATOS
 ### DATASETS Y FUENTES ALTERNATIVAS DE DATOS
 "https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/" , "Vault Analytics" Prevelance of Eye Diseases in US.csv

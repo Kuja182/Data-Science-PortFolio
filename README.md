@@ -1,6 +1,3 @@
-# Data Science Portfolio
-Este es un repositorio con los diferentes que estoy trabajando, están realizados en su mayoria con Python,Pandas, Matplotlib y Seaborn.
-
 >##  [Relevancia de los defectos ópticos en la actualidad y mejor solución económica a estos problemas.](https://github.com/Kuja182/Data-Science-PortFolio/blob/main/Relevancia_defectos_%C3%B3pticos/src/memoria.ipynb)
 ### Evaluación de todas las enfermedades oculares y la predominancia de cada una de ellas en un gran espectro.
 > ### 1. Analizaremos una muestra de problemas visuales en EEUU de 2017.
